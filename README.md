@@ -78,7 +78,7 @@ python -m spacy download en_core_web_sm
 ## Project Structure
 
 ```
-├── T_mobile_Tuesdays_DataScrapping_LDA_BERT_2Vec.ipynb   # Main notebook
+├── T_mobile_Tuesdays_Discountse_Topic_Modeling.ipynb   # Main notebook
 ├── README.md
 ```
 
