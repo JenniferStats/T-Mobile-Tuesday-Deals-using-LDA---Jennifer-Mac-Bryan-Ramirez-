@@ -78,7 +78,7 @@ python -m spacy download en_core_web_sm
 ## Project Structure
 
 ```
-├── T_mobile_Tuesdays_Discountse_Topic_Modeling.ipynb   # Main notebook
+├── T_mobile_Tuesdays_Discounts_Topic_Modeling.ipynb   # Main notebook
 ├── README.md
 ```
 
