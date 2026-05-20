@@ -1,4 +1,4 @@
-# T-Mobile Tuesdays Discount Categorization Using Topic Modeling
+# 🏷️ T-Mobile Tuesdays Discount Categorization Using Topic Modeling 
 
 **Authors:** Jennifer Mac & Bryan Ramirez
 
@@ -78,7 +78,7 @@ python -m spacy download en_core_web_sm
 ## Project Structure
 
 ```
-├── T_mobile_Tuesdays_Cleaned_Reorganized.ipynb   # Main notebook
+├── T_mobile_Tuesdays_DataScrapping_LDA_BERT_2Vec.ipynb   # Main notebook
 ├── README.md
 ```
 
